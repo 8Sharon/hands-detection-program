@@ -9,9 +9,7 @@ This project is a real-time hand detection system that uses computer vision and 
 - Bounding box or keypoint (landmark) visualization
 - Easy-to-use and extendable codebase
 
-
 ![Detected Hands](images/two_hands_20250501_164950.jpg)
-
 ## 🚀 Getting Started
 
 ### Prerequisites
